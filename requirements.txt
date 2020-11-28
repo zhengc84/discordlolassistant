@@ -1,0 +1,3 @@
+git+https://github.com/Rapptz/discord.py
+selenium
+PyNaCl==1.4.0
